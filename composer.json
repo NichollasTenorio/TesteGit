@@ -1,0 +1,9 @@
+{
+    "name": "admin/usp",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Usp\\": "src/"
+        }
+    },
+    "require": {}
+}
